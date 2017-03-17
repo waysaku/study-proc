@@ -143,3 +143,5 @@ https://books.google.co.jp/books?id=nFlhOc3_G78C&pg=PA256&lpg=PA256&dq=%E3%82%AB
 - JavaにおけるスレッドとOSスレッドのマッピング
 http://www.acroquest.co.jp/webworkshop/JavaTroubleshooting/column_004Main.html
 
+- 相談
+桑野さん(@kuwa_tw)
